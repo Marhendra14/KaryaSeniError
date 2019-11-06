@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Karya Seni</string>
+    <string name="title_activity_home">Home</string>
+    <string name="facebook_app_id">2463884957043238</string>
+    <string name="fb_login_protocol_scheme">fb2463884957043238</string>
+    <string name="email">marhendra14@polinema.ac.id</string>
+</resources>
